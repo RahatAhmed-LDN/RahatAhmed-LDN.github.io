@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Skills"
+layout: skills
+permalink: /skills/
 author_profile: true
 ---
