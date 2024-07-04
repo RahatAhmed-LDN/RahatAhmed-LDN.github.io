@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Rahat Ahmed"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "An Underwriting and Property-Letting professional seeking to transition into the IT Support Industry."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -109,7 +109,7 @@ defaults:
 
 category_archive:
   type: liquid
-  path: /categories/
+  path: /skills/
 tag_archive:
   type: liquid
-  path: /tags/
+  path: /cv/
